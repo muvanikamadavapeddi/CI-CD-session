@@ -17,6 +17,7 @@ resources:
     states:
       - OPEN
 
+
 jobs:
 - name: build-spring-boot
   plan:
